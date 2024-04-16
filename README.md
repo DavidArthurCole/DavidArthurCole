@@ -23,5 +23,8 @@
   </ul>
 </span>
 
-![](https://raw.githubusercontent.com/DavidArthurCole/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/DavidArthurCole/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<a href="https://github.com/jstrieb/github-stats" style="text-decoration:none; border: none !important;">
+
+![](https://raw.githubusercontent.com/DavidArthurCole/github-stats/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/DavidArthurCole/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</a>
