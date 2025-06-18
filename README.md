@@ -5,7 +5,7 @@
 ### About me
 <span>
   <ul>
-    <li>I'm currently a full-time <image src="https://pbs.twimg.com/profile_images/1483341411911041025/hY5z-EDB_400x400.jpg" alt="ServiceNow Logo" style="height: 30px; width: 30px;"/> <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">ServiceNow</a> Administrator and Developer, for the Rochester Institute of Technology.<ul><li>I am in the process of obtaining my <a href="https://www.servicenow.com/services/training-and-certification/certified-system.html" target="_blank" rel="noreferrer">CSA certification</a>.</li></ul></li>
+    <li>I'm currently a full-time <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">ServiceNow</a> Administrator and Developer, for the Rochester Institute of Technology.<ul><li>I am in the process of obtaining my <a href="https://www.servicenow.com/services/training-and-certification/certified-system.html" target="_blank" rel="noreferrer">CSA certification</a>.</li></ul></li>
     <li>I will be graduating from the Rochester Institute of Technology with a major in Computer Engineering Technology.</li>
     <li><a href="https://davidarthurcole.github.io/" target="_blank" rel="noreferrer">A full site-resume can be found here</a>.</li>
   </ul>
