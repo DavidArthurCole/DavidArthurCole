@@ -23,4 +23,4 @@
   </ul>
 </span>
 
-[![DavidArthurCole's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidArthurCole)](https://github.com/anuraghazra/github-readme-stats)
+[![DavidArthurCole's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidArthurCole&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
