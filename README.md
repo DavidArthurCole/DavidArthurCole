@@ -23,8 +23,4 @@
   </ul>
 </span>
 
-<a href="https://github.com/jstrieb/github-stats" style="text-decoration:none; border: none !important;">
-
-![](https://raw.githubusercontent.com/DavidArthurCole/github-stats/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/DavidArthurCole/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</a>
+[![DavidArthurCole's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidArthurCole)](https://github.com/anuraghazra/github-readme-stats)
