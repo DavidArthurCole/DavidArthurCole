@@ -29,7 +29,7 @@ I maintain, and contribute to open-source projects centric around video games, i
   [![Email](https://img.shields.io/badge/dxcrcc@rit.edu-Email-lightgrey?style=for-the-badge&logo=Gmail)](mailto:dxcrcc@rit.edu) <br/>
   [![GitHub](https://img.shields.io/badge/DavidArthurCole-GitHub-181a1b?style=for-the-badge&logo=GitHub)](https://github.com/DavidArthurCole/) <br/>
   [![LinkedIn](https://img.shields.io/badge/DavidArthurCole-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/davidarthurcole/) <br/>
-  [![Stack Exchange](https://img.shields.io/badge/David-Stack_Exchange-2f81c2?style=for-the-badge&logo=StackExchange)]() <br/>
+  [![Stack Exchange](https://img.shields.io/badge/David-Stack_Exchange-2f81c2?style=for-the-badge&logo=StackExchange)](https://stackexchange.com/users/6491211/david) <br/>
 
 </details>
 
